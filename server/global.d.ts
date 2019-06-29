@@ -15,6 +15,7 @@ declare global {
 		interface Global {
 			IPTools: any
 			Config: any
+			Monitor: any
 			Chat: any
 			__version: {head: string, origin?: string}
 		}
